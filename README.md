@@ -1,2 +1,3 @@
 # Advanced_Regression_Contest
-Here is a Advanced_Regression Contest from  Kaggle.
+Here are a Kaggle project for GWU Machine Learning Course.
+Data Source:https://www.kaggle.com/c/house-prices-advanced-regression-techniques
